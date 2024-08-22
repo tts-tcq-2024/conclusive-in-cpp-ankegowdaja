@@ -2,7 +2,7 @@
 
 Legacy code can be complex. It often starts simple, but collects complexity as the product and its customers evolve.
 
-This repository has legacy code in it. Let's refactor to enable evolution without adding complexity.
+This repository has legacy code in it. Let's refactor to enable evolution without adding complexity
 
 ## About this repository
 
